@@ -1,0 +1,20 @@
+{
+  "name": "recursoshumanos",
+  "version": "1.0.0",
+  "description": "Proyecto final de Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "js",
+    "express"
+  ],
+  "author": "Erick AJ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
